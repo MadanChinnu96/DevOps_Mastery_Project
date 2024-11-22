@@ -1,0 +1,14 @@
+# Ignore Python virtual environments
+venv/
+
+# Byte-compiled Python files
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+
